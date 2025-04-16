@@ -11,7 +11,3 @@ contract Inbox {
     // Allows updating the stored message.
     function setMessage(string newMessage) public {
         message = newMessage;
-    }}git init
-    git add .
-
-git commit -m "Initial commit - MessageChain contract"
